@@ -2,8 +2,6 @@
 
 A real-time multiplayer puzzle game built with modern web technologies. Players collaborate on a shared game board where they click cells to change shapes and colors while following adjacency rules. The game features live synchronization across multiple devices and browser tabs.
 
-![Game Preview](https://via.placeholder.com/800x400/1e40af/ffffff?text=Game+Board+Preview)
-
 ## 🎯 Game Overview
 
 ### Core Mechanics
